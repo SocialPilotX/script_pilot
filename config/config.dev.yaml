@@ -1,0 +1,5 @@
+app:
+  name: ScriptPilot
+  port: 8080
+log:
+  level: DEBUG
