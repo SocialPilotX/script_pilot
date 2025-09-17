@@ -18,6 +18,8 @@ type AppConfig struct {
 	Log struct {
 		Level string `yaml:"level"`
 	} `yaml:"log"`
+
+	GeminiKey string `yaml:"gemini_key"`
 }
 
 var Config AppConfig
