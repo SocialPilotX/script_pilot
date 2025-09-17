@@ -3,3 +3,4 @@ app:
   port: 8080
 log:
   level: DEBUG
+gemini_key: ${GEMINI_KEY}
